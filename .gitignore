@@ -1,0 +1,17 @@
+# Node modules
+server/node_modules/
+client/SmartDine/node_modules/
+
+# Build output
+client/SmartDine/dist/
+client/SmartDine/build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
